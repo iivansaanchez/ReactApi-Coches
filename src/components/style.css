@@ -1,0 +1,11 @@
+/* styles.css */
+.container {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+  }
+
+.coches {
+    margin-left: 50px; 
+}

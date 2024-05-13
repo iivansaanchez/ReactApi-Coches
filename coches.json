@@ -1,0 +1,46 @@
+{
+  "coches": [
+    {
+      "id": "1",
+      "nombre": "Toyota Camry",
+      "marca": "Toyota",
+      "modelo": "Camry",
+      "color": "Blanco"
+    },
+    {
+      "id": "2",
+      "nombre": "Honda Civic",
+      "marca": "Honda",
+      "modelo": "Civic Type-R",
+      "color": "Rojo"
+    },
+    {
+      "id": "3",
+      "nombre": "Ford Mustang",
+      "marca": "Ford",
+      "modelo": "Mustang",
+      "color": "Negro"
+    },
+    {
+      "id": "4",
+      "nombre": "Chevrolet Corvette",
+      "marca": "Chevrolet",
+      "modelo": "Corvette Stingray",
+      "color": "Azul"
+    },
+    {
+      "id": "5",
+      "nombre": "BMW Serie 3",
+      "marca": "BMW",
+      "modelo": "Serie 3",
+      "color": "Gris"
+    },
+    {
+      "id": "6",
+      "nombre": "Mercedes-Benz Clase E",
+      "marca": "Mercedes-Benz",
+      "modelo": "Clase E",
+      "color": "Plateado"
+    }
+  ]
+}
